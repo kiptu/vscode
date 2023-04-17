@@ -1,0 +1,67 @@
+{
+  // Workbench
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.startupEditor": "none",
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Kiptu Theme",
+
+  // Editor
+  "editor.fontFamily": "IBM Plex Mono, Operator Mono Lig, Dank Mono, Zed Mono, Input Mono, Jetbrains Mono, Cascadia Code, Menlo, monospace",
+  "editor.fontSize": 14,
+  "editor.fontWeight": "normal",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.inlineSuggest.enabled": true,
+  "editor.lineNumbers": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.suggestSelection": "first",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.stickyScroll.enabled": true,
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.tabs.enabled": true,
+  "terminal.integrated.fontFamily": "Input Mono, Menlo, monospace",
+  "terminal.integrated.profiles.windows": {
+    "Git Bash": {
+      "path": "C:\\Program Files\\Git\\bin\\bash.exe"
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "explorer.confirmDelete": false,
+
+  // Editor: Inlay Hints
+  "editor.inlayHints.enabled": "onUnlessPressed",
+  "editor.inlayHints.fontSize": 12,
+  "editor.inlayHints.padding": true,
+  "javascript.inlayHints.parameterTypes.enabled": true,
+  "javascript.inlayHints.enumMemberValues.enabled": true,
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "javascript.inlayHints.parameterNames.enabled": "all",
+
+  // Extension Settings
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+  "prettier.singleQuote": false,
+  "prettier.trailingComma": "none",
+  "prettier.printWidth": 280,
+  "git.autofetch": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": true,
+    "markdown": true,
+    "vue": true
+  },
+  "gitlens.codeLens.enabled": false,
+  "gitlens.codeLens.recentChange.enabled": false,
+  "gitlens.codeLens.authors.enabled": false,
+  "errorLens.fontWeight": "600",
+  "errorLens.fontSize": "14",
+
+  // Language Settings
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always"
+}

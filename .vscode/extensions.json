@@ -1,0 +1,27 @@
+{
+  "recommendations": [
+    // Themes and Icons
+    "vscode-icons-team.vscode-icons",
+
+    // General Plugins
+    "github.copilot",
+    "eamodio.gitlens",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "usernamehw.errorlens",
+    "naumovs.color-highlight",
+    "icrawl.discord-vscode",
+    "christian-kohler.path-intellisense",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-wsl",
+    "nhoizey.gremlins",
+    "ritwickdey.LiveServer",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "VisualStudioExptTeam.vscodeintellicode",
+
+    // Language and Framework Plugins
+    "Mikael.Angular-BeastCode",
+    "Angular.ng-template",
+    "prisma.prisma",
+  ]
+}

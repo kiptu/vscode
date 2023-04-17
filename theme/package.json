@@ -1,0 +1,27 @@
+{
+  "name": "kiptu-theme",
+  "displayName": "kiptu-theme",
+  "description": "VSCode Theme of Kiptu Software Labs",
+  "icon": "kiptu-theme.png",
+  "publisher": "Kiptu Software Labs",
+  "version": "0.0.1",
+  "scripts": {
+    "package": "vsce package -o kiptu-theme.vsix"
+  },
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "repository": {
+    "url": "https://github.com/kiptu/vscode",
+    "type": "git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kiptu Theme",
+        "uiTheme": "vs-dark",
+        "path": "./kiptu-theme.json"
+      }
+    ]
+  }
+}
