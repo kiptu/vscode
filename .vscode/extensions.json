@@ -18,6 +18,7 @@
     "ritwickdey.LiveServer",
     "VisualStudioExptTeam.intellicode-api-usage-examples",
     "VisualStudioExptTeam.vscodeintellicode",
+    "pranaygp.vscode-css-peek",
 
     // Language and Framework Plugins
     "Mikael.Angular-BeastCode",
