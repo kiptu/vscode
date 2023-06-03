@@ -30,7 +30,7 @@
   "explorer.confirmDelete": false,
 
   // Editor: Inlay Hints
-  "editor.inlayHints.enabled": "onUnlessPressed",
+  "editor.inlayHints.enabled": "offUnlessPressed",
   "editor.inlayHints.fontSize": 12,
   "editor.inlayHints.padding": true,
   "javascript.inlayHints.parameterTypes.enabled": true,
