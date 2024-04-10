@@ -1,16 +1,10 @@
-<div align="center">
- 
-```php
-                                                
+```php                                              
 _  _ _ ___  ___ _  _    _  _ ____ ____ ____ ___  ____ 
 |_/  | |__]  |  |  |    |  | [__  |    |  | |  \ |___ 
 | \_ | |     |  |__|     \/  ___] |___ |__| |__/ |___ 
                                                 
 Settings, Extensions and Theme for VSCode
- 
 ```
- 
-</div>
 
 ## <samp>INSTALLATION</samp>
 - Run the `setup.cmd` file to install everything at once
@@ -35,12 +29,8 @@ Settings, Extensions and Theme for VSCode
     <img width="100%" src=".github/preview.png"/>
 </div>
 
-<div align="right">
-
 <br>
 
 ```
 Kiptu Software Labs 💜
 ```
-
-</div>
